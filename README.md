@@ -7,6 +7,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -16,6 +17,7 @@ Solutions for Leetcode Questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
