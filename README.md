@@ -14,6 +14,7 @@ Solutions for Leetcode Questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ Solutions for Leetcode Questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Math
 |  |
