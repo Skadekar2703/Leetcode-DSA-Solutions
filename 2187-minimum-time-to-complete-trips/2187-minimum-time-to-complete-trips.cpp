@@ -5,9 +5,10 @@ public:
         long long trips = 0;
         for(int i = 0; i < n; i++){
             trips = trips + (mid / arr[i]);
+            if(trips >= tt) return true;
         }
 
-        if(trips >= tt) return true;
+        
         return false;
     }
     long long minimumTime(vector<int>& arr, int tt) {
