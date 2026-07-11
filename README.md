@@ -25,6 +25,7 @@ Solutions for Leetcode Questions
 | [0033-search-in-rotated-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
