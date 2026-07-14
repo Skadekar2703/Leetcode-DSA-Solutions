@@ -9,6 +9,7 @@ Solutions for Leetcode Questions
 | [0001-two-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0031-next-permutation) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
