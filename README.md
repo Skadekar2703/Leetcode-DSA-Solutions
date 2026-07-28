@@ -73,6 +73,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0038-count-and-say) |
 ## Trie
 |  |
 | ------- |
