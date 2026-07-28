@@ -13,6 +13,7 @@ Solutions for Leetcode Questions
 | [0033-search-in-rotated-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -83,4 +84,5 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
