@@ -50,6 +50,7 @@ Solutions for Leetcode Questions
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,8 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
