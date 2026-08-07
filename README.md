@@ -77,6 +77,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0038-count-and-say) |
 ## Trie
 |  |
@@ -85,6 +86,7 @@ Solutions for Leetcode Questions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
@@ -94,4 +96,12 @@ Solutions for Leetcode Questions
 | ------- |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
