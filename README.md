@@ -14,6 +14,7 @@ Solutions for Leetcode Questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -110,4 +111,12 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
