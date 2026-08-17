@@ -47,6 +47,7 @@ Solutions for Leetcode Questions
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
@@ -110,6 +111,7 @@ Solutions for Leetcode Questions
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
