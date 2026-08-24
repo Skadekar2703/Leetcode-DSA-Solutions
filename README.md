@@ -14,6 +14,7 @@ Solutions for Leetcode Questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
@@ -47,6 +48,7 @@ Solutions for Leetcode Questions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
@@ -116,6 +118,7 @@ Solutions for Leetcode Questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
