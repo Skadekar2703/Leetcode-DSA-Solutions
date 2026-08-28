@@ -18,6 +18,7 @@ Solutions for Leetcode Questions
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,6 +102,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
