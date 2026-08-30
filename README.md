@@ -18,6 +18,7 @@ Solutions for Leetcode Questions
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
@@ -108,6 +109,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
