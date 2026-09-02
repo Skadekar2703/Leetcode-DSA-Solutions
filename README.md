@@ -20,6 +20,7 @@ Solutions for Leetcode Questions
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -128,4 +129,8 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
