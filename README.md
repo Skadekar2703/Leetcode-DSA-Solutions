@@ -32,6 +32,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Solutions for Leetcode Questions
 | [0014-longest-common-prefix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
