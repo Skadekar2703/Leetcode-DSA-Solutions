@@ -1,14 +1,18 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& v) {
-        int n = v.size();
-        vector<bool> check(n+1, false);
-        for(int i = 0; i < n; i++){
-            check[v[i]] = true;
+    int missingNumber(vector<int>& arr) {
+        int n = arr.size();
+        int i = 0;
+        while(i < n){
+            if(arr[i] == i || arr[i] > n-1) i++;
+            else{
+                swap(arr[i] , arr[arr[i]]);
+                
+            }
         }
-        for(int i = 0; i <= n; i++){
-            if(check[i] == false)   return i;
+        for(int i = 0; i < n; i ++){
+            if(arr[i] != i) return i;
         }
-        return -1;
+        return n;
     }
 };
