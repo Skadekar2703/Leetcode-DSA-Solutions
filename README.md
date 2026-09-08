@@ -22,6 +22,7 @@ Solutions for Leetcode Questions
 | [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -42,6 +43,7 @@ Solutions for Leetcode Questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -68,6 +70,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -113,6 +116,7 @@ Solutions for Leetcode Questions
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
@@ -141,4 +145,12 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
