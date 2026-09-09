@@ -14,6 +14,7 @@ Solutions for Leetcode Questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0078-subsets) |
@@ -36,6 +37,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
