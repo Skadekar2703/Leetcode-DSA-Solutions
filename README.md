@@ -34,6 +34,7 @@ Solutions for Leetcode Questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Solutions for Leetcode Questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -163,4 +165,8 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
