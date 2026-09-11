@@ -4,7 +4,7 @@ public:
         int n = v.size();
         int low = 0, high = n-1;
         while(low <= high){
-            int mid = low + (high - low);
+            int mid = low + (high - low)/2;
             int miss = v[mid] - (mid + 1);
             if(k > miss)    low = mid + 1;
             else    high = mid - 1;
