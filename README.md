@@ -32,6 +32,7 @@ Solutions for Leetcode Questions
 | [0875-koko-eating-bananas](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -98,6 +99,7 @@ Solutions for Leetcode Questions
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -108,6 +110,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
 ## String
 |  |
 | ------- |
@@ -142,6 +145,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
 ## Bracket Sequences
 |  |
 | ------- |
