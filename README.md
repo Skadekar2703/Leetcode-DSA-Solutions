@@ -115,6 +115,7 @@ Solutions for Leetcode Questions
 | [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Pigeonhole Principle
 |  |
 | ------- |
