@@ -7,14 +7,13 @@ public:
         vector<int> p(n+1);
         
         int N = 0, Y = 0;
-
-        for(int i = 0; i <= n; i++){
-            pre[i] = N;
-            if(i == n)  break;
+        pre[0] = 0;
+        for(int i = 0; i < n; i++){
             if(c[i] == 'N')     N++;
+            pre[i+1] = N; 
         }
         suf[n] = 0;
-        for(int i = n; i >= 0; i--){
+        for(int i = n-1; i >= 0; i--){
             if(c[i] == 'Y')     Y++;
             suf[i] = Y;
             
