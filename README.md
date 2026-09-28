@@ -38,6 +38,7 @@ Solutions for Leetcode Questions
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ Solutions for Leetcode Questions
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ Solutions for Leetcode Questions
 | [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## String
 |  |
 | ------- |
@@ -169,6 +173,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Pigeonhole Principle
 |  |
