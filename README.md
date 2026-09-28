@@ -31,6 +31,7 @@ Solutions for Leetcode Questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1052-grumpy-bookstore-owner](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -95,6 +96,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 ## Sorting
 |  |
 | ------- |
