@@ -11,7 +11,7 @@ public:
 
         int idx = -1;
         for(int i = 0; i < n; i++){
-            if(suf[i] > 0){
+            if(suf[i] >= 0){
                 idx = i;
                 break;
             }
