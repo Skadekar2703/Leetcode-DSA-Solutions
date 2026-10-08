@@ -21,6 +21,7 @@ Solutions for Leetcode Questions
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -56,6 +57,7 @@ Solutions for Leetcode Questions
 | [0033-search-in-rotated-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
@@ -95,6 +97,7 @@ Solutions for Leetcode Questions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1052-grumpy-bookstore-owner](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 ## Sorting
@@ -173,6 +176,7 @@ Solutions for Leetcode Questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
