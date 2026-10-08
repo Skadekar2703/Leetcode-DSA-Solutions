@@ -20,7 +20,7 @@ public:
             }
             maxLen = max(maxLen, j-i);
         }
-        if(maxLen == INT_MIN)   maxLen = j-i;
+        //if(maxLen == INT_MIN)   maxLen = j-i;
         return maxLen;
         
     }
