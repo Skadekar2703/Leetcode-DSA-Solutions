@@ -44,6 +44,7 @@ Solutions for Leetcode Questions
 | [2089-find-target-indices-after-sorting-array](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -161,6 +162,7 @@ Solutions for Leetcode Questions
 | [0338-counting-bits](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,4 +215,8 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0191-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
