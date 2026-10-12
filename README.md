@@ -156,6 +156,7 @@ Solutions for Leetcode Questions
 | [0231-power-of-two](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
