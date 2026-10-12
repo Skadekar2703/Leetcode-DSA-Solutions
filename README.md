@@ -156,6 +156,7 @@ Solutions for Leetcode Questions
 | [0231-power-of-two](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
@@ -163,6 +164,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0338-counting-bits) |
 | [1402-reducing-dishes](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bracket Sequences
