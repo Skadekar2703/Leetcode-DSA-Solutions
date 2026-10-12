@@ -162,6 +162,7 @@ Solutions for Leetcode Questions
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
