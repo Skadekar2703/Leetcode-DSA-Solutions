@@ -84,6 +84,7 @@ Solutions for Leetcode Questions
 | [0048-rotate-image](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
@@ -152,6 +153,7 @@ Solutions for Leetcode Questions
 | [0090-subsets-ii](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -170,6 +172,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
