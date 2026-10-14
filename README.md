@@ -47,6 +47,7 @@ Solutions for Leetcode Questions
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2614-prime-in-diagonal](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Solutions for Leetcode Questions
 | [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [2614-prime-in-diagonal](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Solutions for Leetcode Questions
 | ------- |
 | [0048-rotate-image](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -225,4 +228,8 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
