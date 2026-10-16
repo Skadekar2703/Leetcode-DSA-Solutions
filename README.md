@@ -92,6 +92,7 @@ Solutions for Leetcode Questions
 | [0268-missing-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [2614-prime-in-diagonal](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2614-prime-in-diagonal) |
