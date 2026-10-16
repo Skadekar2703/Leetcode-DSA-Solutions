@@ -20,7 +20,7 @@ public:
             }
         }
         for(int i = sqrt(n); i >= 1; i--){
-            if((isPrime(n/i)) && (n%i == 0)){
+            if((isPrime(n/i)) && (n%(n/i) == 0)){
                 int m = n;
                 while(m % (n/i) == 0){
                     sum += (n/i);
