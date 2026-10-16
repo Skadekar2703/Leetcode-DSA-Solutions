@@ -95,6 +95,7 @@ Solutions for Leetcode Questions
 | [0507-perfect-number](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
@@ -199,6 +200,7 @@ Solutions for Leetcode Questions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -232,5 +234,22 @@ Solutions for Leetcode Questions
 ## Number Theory
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2614-prime-in-diagonal) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Skadekar2703/Leetcode-DSA-Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
